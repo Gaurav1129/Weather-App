@@ -1,9 +1,18 @@
  #root {
-  max-width: 1280px;
+  /* max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
-  background-color: aliceblue;
+  text-align: center; */
+  display: flex;
+  margin: 0px;
+  padding: 0px .5rem;
+  justify-content: center;
+  background-image: url("../src/assets/uriel-xtgONQzGgOE-unsplash.jpg");
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%
 } 
 
 .logo {

@@ -54,7 +54,7 @@ export default function Searchbox({ updateInfo }) {
         <div className="search-box">
             {/* <h2>Search for a city</h2> */}
             <form action="" onSubmit={handleSubmit}>
-                <TextField id="city" label="City-name" variant="outlined"
+                <TextField id="city" label="Enter Location" variant="outlined"
                     required value={city} onChange={handleChange} />
                 <br /> <br />
                 <Button variant="contained" type="submit">Search</Button>
