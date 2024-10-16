@@ -7,7 +7,7 @@ This is a simplified version of weather app built with React, Vite, and MUI (Mat
 - Material-UI
 - Html
 - Javascript
-- Css
+- CSS
 
 ### Author:
 - Gaurav
